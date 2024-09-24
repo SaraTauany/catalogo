@@ -60,7 +60,8 @@ body {
 }
 
 .container__imagem {
-    margin: 1em 0 2em 0;
+    width: 20% ;
+    height: auto ;
 }
 
 .container__caixa {
@@ -68,7 +69,8 @@ body {
 }
 
 .secundario__imagem {
-    width: 80%;
+    width: 20%;
+    height: auto; 
 }
 
 .secundario {
